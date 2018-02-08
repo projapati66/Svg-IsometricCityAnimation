@@ -1,0 +1,18 @@
+#isomatric-city {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+    width: 950px;
+    max-width: 100%;
+    height: 750px;
+    max-height: 100vh;
+}
+#isomatric-city svg{
+    max-width: 100%;
+}
+.building, .building_elem, #building3_banner, #small_trees, #trees_left, #trees_right, #fancing, #fancing_surface, #chairs, #ground, #roads, #building_surface, .car, .text{
+    visibility: hidden;
+    opacity: 0;
+}
