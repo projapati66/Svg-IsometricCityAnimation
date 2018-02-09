@@ -11,7 +11,7 @@ A simple SVG Isometric city animation
 
 ## Credits
 
-- [TweenMax.js](https://greensock.com/gsap) by Green Sock
+- [TweenMax.js](https://greensock.com/gsap) by GreenSock
 - SVG [Isometric City](https://www.freepik.com/free-vector/city-in-isometric-style_820647.htm)
 
 ## License
