@@ -19,3 +19,22 @@ body{
     visibility: hidden;
     opacity: 0;
 }
+
+.back-to{
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+.back-to a{
+    color:#808080;
+}
+.back-to a:hover{
+    color:#333;
+}
+.icon {
+    display: block;
+    width: 1.5em;
+    height: 1.5em;
+    margin: 0 auto;
+    fill: currentColor;
+}
