@@ -20,15 +20,43 @@ body{
     opacity: 0;
 }
 
-.back-to{
+.hidden {
     position: absolute;
-    left: 5px;
-    top: 5px;
+    overflow: hidden;
+    width: 0;
+    height: 0;
+    pointer-events: none;
 }
-.back-to a{
+.playground-header{
+    position: relative;
+    z-index: 100;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    align-items: center;
+    align-self: start;
+    justify-self: start;
+}
+/*Playground buttons*/
+.playground-links {
+    position: relative;
+    display: flex;
+    margin: 0;
+    text-align: center;
+    white-space: nowrap;
+}
+.playground-icons {
+    display: inline-block;
+    margin: 0.15em;
+    padding: 0.25em;
     color:#808080;
 }
-.back-to a:hover{
+.playground-icons:hover{
+    color:#333;
+}
+.playground-header h1{
+    font-size: 16px;
+    margin: 0 0 0 0.5em;
     color:#333;
 }
 .icon {
