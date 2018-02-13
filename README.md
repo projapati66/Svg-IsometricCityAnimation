@@ -4,7 +4,7 @@ A simple SVG Isometric city animation
 
 ![SVG Isometric City Animation](http://www.designtheway.com/wp-content/uploads/SvgIsometricCityAnimation_GitHub.jpg)
 
-[Article on DesignTheWay](http://www.designtheway.com/playground/svg-isometric-city-animation/)
+[Article on DesignTheWay](http://www.designtheway.com/svg-isometric-city-animation/)
 
 [Demo](http://www.designtheway.com/development/SvgIsometricCityAnimation/)
 
